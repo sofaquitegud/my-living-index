@@ -6,6 +6,14 @@ using public data from [data.gov.my](https://data.gov.my).
 ## Business Question
 **Are Malaysians actually getting poorer?**
 
+## Visualization Preview
+
+![Nominal vs Real Income](assets/nominal-vs-real-income.png)
+![Income Growth vs Inflation](assets/income-growth-vs-inflation.png)
+![Affordability by State](assets/affordability-by-state.png)
+![B40/M40/T20 Distribution](assets/income-group-distribution.png)
+
+
 ## Architecture
 Bronze → Silver → Gold (Medallion Architecture)
 
@@ -28,6 +36,10 @@ Bronze → Silver → Gold (Medallion Architecture)
 - PySpark
 - Plotly + Matplotlib
 - Lakeview Dashboard (AI/BI)
+
+## Dashboard
+
+📊 [View Full Dashboard PDF](assets/dashboard.pdf)
 
 ## Notebooks
 | Notebook | Purpose |
